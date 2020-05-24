@@ -285,6 +285,10 @@ _C.DATA.ENSEMBLE_METHOD = "sum"
 # If True, revert the default input channel (RBG <-> BGR).
 _C.DATA.REVERSE_INPUT_CHANNEL = False
 
+# Required for different heads of network for different modifications
+_C.DATA.HEAD_DIVISOR = 32
+
+_C.DATA.HEAD_ADDITION = 0
 
 # ---------------------------------------------------------------------------- #
 # Optimizer options
