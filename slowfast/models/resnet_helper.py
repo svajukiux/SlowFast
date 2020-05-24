@@ -40,6 +40,7 @@ class BasicTransform(nn.Module):
         eps=1e-5,
         bn_mmt=0.1,
         norm_module=nn.BatchNorm3d,
+        dilation=1
     ):
         """
         Args:
