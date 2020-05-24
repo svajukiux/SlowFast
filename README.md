@@ -4,7 +4,7 @@ PySlowFast is an open source video understanding codebase from FAIR that provide
 
 ## Installation
 
-Please find installation instructions for PyTorch and PySlowFast in [INSTALL.md](INSTALL.md). You may follow the instructions in [DATASET.md](slowfast/datasets/DATASET.md) to prepare the datasets.
+Please find installation instructions for PyTorch and PySlowFast in [INSTALL.md](INSTALL.md). Follow the instructions in [DATASET.md](slowfast/datasets/DATASET.md) to prepare the datasets.
 
 ## Quick Start
 
